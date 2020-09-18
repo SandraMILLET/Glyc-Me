@@ -1,0 +1,49 @@
+
+h1{
+    color: rgb(238, 24, 70);
+    font-size : 5em;
+}
+.index{
+    background-image: linear-gradient(rgba(0, 0, 255, 0.186), rgba(255, 255, 0, 0.254)),
+                  url("../img/panier.jpg");
+}
+.save{
+    margin : 20px;
+}
+.faible{
+background-color: rgba(108, 204, 18, 0.89);
+}
+.moyen{
+    background-color: orange;
+}
+.elevé{
+    background-color: rgb(245, 4, 4);
+}
+img.ing{
+    width : 20px;
+    height :30px;
+}
+#Total{
+    color: blue;
+    font-weight: 600;
+    font-size : 1.5em;
+}
+#result{
+    font-weight: 600;
+}
+#fix{
+    margin : 15px;
+}
+.bareme{
+    margin : 20px;
+}
+.titre{
+    background-color: rgba(22, 59, 150, 0.501);
+    border-radius: 35px;
+    padding: 15px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+#aliments{
+    background-color: rgba(56, 56, 59, 0.33);
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "nom" : "Chocolat noir",
+        "img" : "img/Chocolate.png",
+        "IG" : 23
+    },
+    {
+        "nom" : "Orange",
+        "img" : "img/orange.png",
+        "IG" : 42
+    },
+    {
+        "nom" : "Carottes cuites",
+        "img" : "img/carotte.jpg",
+        "IG" : 47
+    },
+    {
+        "nom" : "Riz cuit",
+        "img" : "img/riz.jpg",
+        "IG" : 70
+    },
+    {
+        "nom" : "Quinoa",
+        "img" : "img/quinoa.jpg",
+        "IG" : 35
+    },
+    {
+        "nom" : "Lait d'amande",
+        "img" : "img/lait.jpeg",
+        "IG" : 30
+    },
+    {
+        "nom" : "Biscotte",
+        "img" : "img/biscotte.jpg",
+        "IG" : 75
+    },
+    {
+        "nom" : "Haricot vert",
+        "img" : "img/haricot.jpg",
+        "IG" : 30
+    },
+    {
+        "nom" : "Soda",
+        "img" : "img/soda.jpg",
+        "IG" : 65
+    },
+    {
+        "nom" : "Céréales (Corn-Flakes)",
+        "img" : "img/corn-flakes.jpg",
+        "IG" : 82
+    }
+    ]
